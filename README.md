@@ -1,5 +1,5 @@
 # SAP-HANA
-This repository contains SAP Notes on HANA in-memory database authored by me.   
+This repository contains SAP Notes on HANA in-memory database authored by me. You can check the contents by opening the files above.
 
 In order to check the lastest version of SAP Notes below, you must hold a valid SAP account that allows you to access to SAP Portal. 
 
